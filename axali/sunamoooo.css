@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(51, 64%, 78%)
+    
+}
+.main{
+    padding: 10px;
+    background-color: aliceblue;
+    display: flex;
+    border-radius: 20px;
+    width: 500px;
+}
+img{
+    border-radius: 15px;
+    height: 400px;
+}
+.about{
+    background-color: white;
+    width: 330px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    color: hsl(180, 100%, 100%);
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 15px;
+    border: none;
+    
+}
